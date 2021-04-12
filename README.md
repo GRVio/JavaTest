@@ -1,0 +1,2 @@
+# JavaTest
+Self Java practice
