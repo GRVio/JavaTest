@@ -1,0 +1,9 @@
+day1笔记
+安装JAVA,EditPlus
+配置JAVA环境
+写"HelloWorld"
+编译成功，生成class文件
+运行失败，怀疑环境没有配置好
+重新配置环境，新加classpath，java_home
+第二次运行，成功
+视频断片了...
