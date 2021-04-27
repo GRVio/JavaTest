@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DiSanZhang/DiSanZhang.iml" filepath="$PROJECT_DIR$/DiSanZhang/DiSanZhang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DiYiZhang/DiYiZhang.iml" filepath="$PROJECT_DIR$/DiYiZhang/DiYiZhang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaProject.iml" filepath="$PROJECT_DIR$/.idea/JavaProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Javase/Javase.iml" filepath="$PROJECT_DIR$/Javase/Javase.iml" />
+    </modules>
+  </component>
+</project>
